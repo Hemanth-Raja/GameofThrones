@@ -11,7 +11,7 @@
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.700821716454-kr9ern56n63nm58ak5ooah9dcggs9ujf</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAhhmqG0RmNZB7WZ3H_FH7Ry8tLrDDhD6w</string>
+	<string>Your Firebase KEY</string>
 	<key>GCM_SENDER_ID</key>
 	<string>700821716454</string>
 	<key>PLIST_VERSION</key>
